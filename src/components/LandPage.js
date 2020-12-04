@@ -18,7 +18,7 @@ const LandPage = () => {
             text2={heroInfo.hero2}
           />
           <BtnBox>
-            <Button url='/about' value='see my approche' />
+            <Button url='/about' value='see my approach' />
           </BtnBox>
         </Plx>
       </Container>

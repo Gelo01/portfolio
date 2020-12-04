@@ -11,7 +11,7 @@ const theme = {
 };
 
 const Made = () => {
-  const header = "porject was made possible with: ";
+  const header = "project was made possible with: ";
 
   return (
     <>

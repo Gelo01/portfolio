@@ -44,26 +44,26 @@ export const CardService = [
     icon: <MdWeb />,
     title: "web development",
     content:
-      "Develope responsiv and powerfull web apps from front-end to back-end using trending technologies."
+      "Develop responsive and powerful web apps from front-end to back-end using trending technologies."
   },
   {
     icon: <SiAppstore />,
     title: "mobile apps",
     content:
-      "Expand your business from website to a mobile app and give your client to opportunity to reach you more."
+      "Expand your business from website to a mobile app and give your client the opportunity to reach you more."
   },
   {
     icon: <RiAdvertisementLine />,
     title: "seo & sem",
     content:
-      "Focuses on optimizing you website in order to get traffic, visibility  from both oraginc or paid searchs."
+      "Focuses on optimizing your website in order to get traffic, visibility from both organic and paid searches."
   }
 ];
 
 export const aboutInfo = {
   text: "about me.",
   disc:
-    "I'am a developer and a student who has been building for the web for almost 3 years, I specialise in accessibility, performance and usability without sacrificing creativity."
+    "I'm a developer and a student who has been building for the web for almost 3 years, I specialise in accessibility, performance and usability without sacrificing creativity."
 };
 
 export const skillsSet = [
@@ -161,7 +161,7 @@ export const slideShow = [
 export const workInfo = {
   text: "About my work.",
   disc:
-    "I strongly believe that developers have a responsibility to make sure that what we are building does no harm and I try to be as ethical as I can in taking on projects. Below a list of some selected project I want to show, visit my github page for more"
+    "I strongly believe that developers have a responsibility to make sure that what we are building causes no harm and I try to be as ethical as I can in taking on projects. Below is a list of some of my projects, you can visit github to see more."
 };
 
 export const works = [
@@ -185,7 +185,7 @@ export const works = [
     name: "Medespoir",
     link: "https://github.com/wseai/medespoir",
     branch:
-      "1st project done with Angular in my first internship for a Medical compagny "
+      "1st project done with Angular in my first internship for a Medical compagny"
   },
   {
     name: "Panterest",

@@ -15,7 +15,7 @@ const Linker = () => {
             onClick={clicks}
             target={"_blank"}
             href='https://instagram.com/wale_sebii'>
-            See My Insatgram
+            See my Instagram
           </Btn>
         </Fade>
       </Wrapper>
