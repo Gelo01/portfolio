@@ -185,7 +185,7 @@ export const works = [
     name: "Medespoir",
     link: "https://github.com/wseai/medespoir",
     branch:
-      "1st project done with Angular in my first internship for a Medical compagny"
+      "1st project done with Angular in my first internship for a Medical company"
   },
   {
     name: "Panterest",
@@ -195,7 +195,7 @@ export const works = [
 ];
 
 export const socialIcon = [
-  { name: <FaGithub />, link: "https://github.com/wseai" },
+  { name: <FaGithub />, link: "https://github.com/jagarkin" },
   { name: <FaTwitter />, link: "https://twitter.com/SebiiyWalee" },
   { name: <FaInstagram />, link: "https://www.instagram.com/wale_sebii/" },
   { name: <FaFacebook />, link: "https://facebook.com/walee.sebiiy" }
