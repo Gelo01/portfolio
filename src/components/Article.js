@@ -6,7 +6,7 @@ import HeroText from "./hero/HeroText";
 import HeroDiss from "./hero/HeroDiss";
 import HeroSvg from "./hero/HeroSvg";
 
-import Work from "./assets/aboutme.svg";
+import Work from "./assets/work.svg";
 
 const Article = () => {
   return (
