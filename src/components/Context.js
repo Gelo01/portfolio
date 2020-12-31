@@ -129,11 +129,13 @@ export const photog = {
 
 export const slideShow = [
   {
-    img: "https://pbs.twimg.com/media/EoE-Ad0WEAAgk11?format=jpg&name=large",
+    img:
+      "//im.vsco.co/aws-us-west-2/1c99d9/91002373/5fedec6b00963c7dc79f3b14/vsco5fedec6fcecf6.jpg?w=480 1x",
     alt: "bar"
   },
   {
-    img: "https://pbs.twimg.com/media/EoE-AeDXUAEPoEZ?format=jpg&name=large",
+    img:
+      "//im.vsco.co/aws-us-west-2/1c99d9/91002373/5fedece500963c7dc79f3b15/vsco5fedecec9561b.jpg?w=480 1x,",
     alt: "sky"
   },
   {

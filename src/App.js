@@ -12,6 +12,7 @@ import Contact from "./pages/Contact";
 import Work from "./pages/Work";
 import Navbar from "./components/navbar";
 import Cursor from "./components/Cursor";
+import Footer from "./components/Footer";
 
 const GlobalStyle = createGlobalStyle`
   ${reset};
@@ -79,6 +80,7 @@ const App = () => {
         <Route path='/about' component={About} />
         <Route path='/work' component={Work} />
       </>
+      <Footer />
     </Router>
   );
 };
